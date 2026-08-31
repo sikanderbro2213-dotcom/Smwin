@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="monetag" content="5b08c0cb72f1994ac330ac4d72927699">
     <title>SIMA Coin Hub</title>
     
     <!-- Monetag Zone Ad SDK -->
